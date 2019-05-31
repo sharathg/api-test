@@ -1,0 +1,18 @@
+{
+  "id": 888,
+  "category": {
+    "id": 8,
+    "name": "Cats"
+  },
+  "name": "Persie",
+  "photoUrls": [
+    "http://cats.com/persie.jpg"
+  ],
+  "tags": [
+    {
+      "id": 88,
+      "name": "cat"
+    }
+  ],
+  "status": "available"
+}
